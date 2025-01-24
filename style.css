@@ -1,0 +1,27 @@
+body {
+  font-family: Times, "Times New Roman", serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 10px;
+  line-height: 1.5;
+}
+
+h1 {
+  color: rgb(33, 33, 33);
+}
+
+a {
+  color: rgb(0, 0, 238);
+}
+
+ul {
+  margin-top: 10px;
+}
+
+li {
+  margin-bottom: 2px;
+}
+
+.nested {
+  margin-left: 20px;
+}
